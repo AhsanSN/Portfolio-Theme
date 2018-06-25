@@ -1,0 +1,4 @@
+[12-Mar-2018 18:08:25 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/anomozco/projects.anomoz.com/php/contact_form.php on line 47
+[12-Mar-2018 18:08:30 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/anomozco/projects.anomoz.com/php/contact_form.php on line 47
+[12-Mar-2018 18:08:33 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/anomozco/projects.anomoz.com/php/contact_form.php on line 47
+[12-Mar-2018 18:20:25 UTC] PHP Fatal error:  Cannot redeclare generateRandomString() (previously declared in /home/anomozco/projects.anomoz.com/php/contact_form.php:10) in /home/anomozco/projects.anomoz.com/php/contact_form.php on line 10
